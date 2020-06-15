@@ -3,7 +3,7 @@ module.exports = {
     title: `Movimento Inova Bahia`,
     description: `A simple description about with site...`,
     author: `Inova`,
-    siteUrl: `http://localhost:8000`,
+    siteUrl: `https://inova-bahia.netlify.app`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -32,5 +32,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 };
