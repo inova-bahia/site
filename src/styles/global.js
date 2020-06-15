@@ -6,6 +6,8 @@ export default createGlobalStyle`
     --gray-1: #EEEEEE;
     --gray-2: #808080;
     --gray-3: #555555;
+    --muted: #CED4D8;
+    --black: #111111;
     --blue: #004477;
     --red: #DD2222;
   }
@@ -23,6 +25,7 @@ export default createGlobalStyle`
   body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Muli', sans-serif;
+    color: var(--black);
   }
 
   img {

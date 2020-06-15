@@ -3,7 +3,7 @@ import React from 'react';
 import Layout from '../components/Layout';
 import Home from '../components/Home';
 
-function Index() {
+function PageHome() {
   return (
     <Layout>
       <Home />
@@ -11,4 +11,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default PageHome;

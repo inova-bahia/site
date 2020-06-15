@@ -100,7 +100,7 @@ export const DifferencesItem = styled.article`
   max-width: 384px;
   justify-self: center;
   background: var(--white);
-  border: 1px solid #ced4d8;
+  border: 1px solid var(--muted);
   border-radius: 10px;
   padding: 48px 32px;
 `;

@@ -1,9 +1,14 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
+import Posts from '../components/Posts';
 
-function Posts() {
-  return <Layout>Posts</Layout>;
+function PagePosts() {
+  return (
+    <Layout>
+      <Posts />
+    </Layout>
+  );
 }
 
-export default Posts;
+export default PagePosts;
