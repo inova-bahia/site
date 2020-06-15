@@ -1,5 +1,14 @@
-import React from "react"
+import React from 'react';
 
-export default function Home() {
-  return <div>Hello world!</div>
+import Layout from '../components/Layout';
+import Home from '../components/Home';
+
+function Index() {
+  return (
+    <Layout>
+      <Home />
+    </Layout>
+  );
 }
+
+export default Index;
