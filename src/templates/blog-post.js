@@ -3,6 +3,8 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
+import SEO from '../components/SEO';
+
 import * as S from '../components/Post/styled';
 
 function BlogPost({ data }) {
@@ -10,6 +12,11 @@ function BlogPost({ data }) {
 
   return (
     <Layout>
+      <SEO
+        title={post.frontmatter.title}
+        description={post.excerpt}
+        image={post.frontmatter.image}
+      />
       <S.PostBanner background={post.frontmatter.image} />
       <S.Container>
         <S.PostHeader>
@@ -32,6 +39,7 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       timeToRead
+      excerpt
       frontmatter {
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
         title

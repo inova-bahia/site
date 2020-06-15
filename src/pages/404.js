@@ -1,16 +1,15 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import Posts from '../components/Posts';
 import SEO from '../components/SEO';
 
-function PagePosts() {
+function NotFoundPage() {
   return (
     <Layout>
-      <SEO title="Postagens" />
-      <Posts />
+      <SEO title="404: Not Found" />
+      <p>Ops, pagina não encontrada</p>
     </Layout>
   );
 }
 
-export default PagePosts;
+export default NotFoundPage;
