@@ -34,17 +34,6 @@ function SocialIcons() {
 
       <S.Item>
         <S.Link
-          href="https://twitter.com/BahiaInova"
-          target="_blank"
-          title="Twitter"
-          rel="noopener norefer"
-        >
-          <Twitter />
-        </S.Link>
-      </S.Item>
-
-      <S.Item>
-        <S.Link
           href="https://www.instagram.com/movimentoinovaba/"
           target="_blank"
           title="Instagram"
