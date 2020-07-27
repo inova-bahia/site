@@ -12,7 +12,7 @@ function SocialIcons() {
     <S.List>
       <S.Item>
         <S.Link
-          href="https://facebook.com"
+          href="https://www.facebook.com/MIB-Movimento-Inova-Bahia-651649751959561/"
           target="_blank"
           title="Facebook"
           rel="noopener norefer"
@@ -23,7 +23,7 @@ function SocialIcons() {
 
       <S.Item>
         <S.Link
-          href="https://youtube.com"
+          href="https://www.youtube.com/channel/UC4SlAld4roArkbSgk1ERNBw/featured"
           target="_blank"
           title="Youtube"
           rel="noopener norefer"
@@ -34,18 +34,7 @@ function SocialIcons() {
 
       <S.Item>
         <S.Link
-          href="https://Linkedin.com"
-          target="_blank"
-          title="Linkedin"
-          rel="noopener norefer"
-        >
-          <LinkedinSquare />
-        </S.Link>
-      </S.Item>
-
-      <S.Item>
-        <S.Link
-          href="https://twitter.com"
+          href="https://twitter.com/BahiaInova"
           target="_blank"
           title="Twitter"
           rel="noopener norefer"
@@ -56,7 +45,7 @@ function SocialIcons() {
 
       <S.Item>
         <S.Link
-          href="https://instagram.com"
+          href="https://www.instagram.com/movimentoinovaba/"
           target="_blank"
           title="Instagram"
           rel="noopener norefer"
