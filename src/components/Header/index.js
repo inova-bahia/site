@@ -30,6 +30,12 @@ function Header() {
             </S.NavigationItem>
 
             <S.NavigationItem>
+              <S.NavigationLink activeClassName="active" to="/sobre">
+                Sobre
+              </S.NavigationLink>
+            </S.NavigationItem>
+
+            <S.NavigationItem>
               <S.NavigationLink activeClassName="active" to="/posts">
                 Postagens
               </S.NavigationLink>

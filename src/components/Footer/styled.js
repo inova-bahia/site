@@ -24,6 +24,7 @@ export const Container = styled.div`
 export const Copy = styled.p`
   font-weight: 600;
   color: var(--white);
+  text-align: center;
 
   @media screen and (max-width: 680px) {
     margin-bottom: 24px;

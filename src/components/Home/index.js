@@ -5,6 +5,7 @@ import lightImg from '../../images/light.svg';
 import plantImg from '../../images/plant.svg';
 
 import * as S from './styled';
+import { Link } from 'gatsby';
 
 function Home() {
   return (
@@ -21,7 +22,9 @@ function Home() {
               estabelecimento dos relacionamentos verticais entre as
               hierarquias.
             </S.IntroText>
-            <S.IntroButton>Fique por dentro</S.IntroButton>
+            <Link to="/sobre">
+              <S.IntroButton>Fique por dentro</S.IntroButton>
+            </Link>
           </S.IntroContent>
         </S.IntroContainer>
       </S.Intro>

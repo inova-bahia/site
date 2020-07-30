@@ -1,8 +1,6 @@
 import React from 'react';
 import { Facebook } from '@styled-icons/boxicons-logos/Facebook';
 import { Youtube } from '@styled-icons/boxicons-logos/Youtube';
-import { LinkedinSquare } from '@styled-icons/boxicons-logos/LinkedinSquare';
-import { Twitter } from '@styled-icons/boxicons-logos/Twitter';
 import { InstagramAlt } from '@styled-icons/boxicons-logos/InstagramAlt';
 
 import * as S from './styled';

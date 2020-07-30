@@ -30,7 +30,7 @@ export const HeaderContainer = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  @media screen and (max-width: 340px) {
+  @media screen and (max-width: 500px) {
     flex-direction: column;
   }
 `;
@@ -42,7 +42,7 @@ export const Navigation = styled.nav``;
 export const NavigationList = styled.ul`
   display: flex;
 
-  @media screen and (max-width: 340px) {
+  @media screen and (max-width: 500px) {
     margin-top: 8px;
   }
 `;
