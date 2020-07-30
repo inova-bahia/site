@@ -59,7 +59,7 @@ function Sobre() {
         <S.Collaborator>
           <S.CollaboratorImage src={GabrielSilasImg} alt="Gabriel Silas" />
           <S.CollaboratorName>Gabriel Silas</S.CollaboratorName>
-          <S.CollaboratorRole>Assuntos Jurídicos</S.CollaboratorRole>
+          <S.CollaboratorRole>Presidente</S.CollaboratorRole>
         </S.Collaborator>
         <S.Collaborator>
           <S.CollaboratorImage src={DiegoAragaoImg} alt="Diego Aragão" />
