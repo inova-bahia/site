@@ -1,6 +1,6 @@
 import React from 'react';
-
 import { useStaticQuery, graphql, Link } from 'gatsby';
+import Img from 'gatsby-image';
 
 import * as S from './styled';
 
@@ -16,7 +16,13 @@ function Posts() {
             frontmatter {
               title
               date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
-              image
+              image {
+                childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
             }
             fields {
               slug
@@ -38,7 +44,10 @@ function Posts() {
           <S.Post key={post.id}>
             <Link to={post.fields.slug}>
               <S.ImageWrapper>
-                <S.PostImage src={post.frontmatter.image} />
+                {/* <S.PostImage src={post.frontmatter.image} /> */}
+                <S.PostImage
+                  fluid={post.frontmatter.image.childImageSharp.fluid}
+                />
               </S.ImageWrapper>
             </Link>
 

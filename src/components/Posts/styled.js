@@ -1,4 +1,5 @@
 import styled, { keyframes } from 'styled-components';
+import Img from 'gatsby-image';
 
 const appear = keyframes`
   from {
@@ -63,7 +64,7 @@ export const ImageWrapper = styled.div`
   overflow: hidden;
 `;
 
-export const PostImage = styled.img`
+export const PostImage = styled(Img)`
   width: 100%;
   height: 250px;
   object-fit: cover;

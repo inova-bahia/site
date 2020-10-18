@@ -17,7 +17,7 @@ function BlogPost({ data }) {
         description={post.excerpt}
         image={post.frontmatter.image}
       />
-      <S.PostBanner background={post.frontmatter.image} />
+      <S.PostBanner fluid={post.frontmatter.image.childImageSharp.fluid} />
       <S.Container>
         <S.PostHeader>
           <S.PostDate>
@@ -45,7 +45,13 @@ export const query = graphql`
         title
         description
         author
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 1280, quality: 60) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

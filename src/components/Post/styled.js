@@ -1,4 +1,5 @@
 import styled, { keyframes } from 'styled-components';
+import Img from 'gatsby-image';
 
 const appear = keyframes`
   from {
@@ -9,12 +10,10 @@ const appear = keyframes`
   }
 `;
 
-export const PostBanner = styled.div`
-  background: var(--gray-1) url(${props => props.background}) no-repeat center
-    center;
-  background-size: cover;
+export const PostBanner = styled(Img)`
+  object-fit: cover;
+  width: 100%;
   height: 256px;
-  animation: ${appear} 0.6s;
 `;
 
 export const Container = styled.div`
