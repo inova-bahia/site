@@ -19,4 +19,4 @@ Apesar das questões relativas à inovação tecnológica se tornarem cada vez m
 
 A inovação é de suma importância, porque ela é tem a capacidade de expandir a produtividade e trazer uma maior competividade de todos os setores da sociedade. Por exemplo, na administração pública, podemos trazer uma melhora significativa nos indicativos de educação, empregabilidade, segurança, saúde e etc. quando bem em seus respectivos setores. 
 
-Nós devemos trazer a inovação no âmbito da gestão pública não como uma mera consequência de fatores externos, mas como uma forma de trazer simplificação, segurança de informações, transparência e participação popular. Tudo isso de forma previsível e alinhada ao avanço das tecnologias da informação.
+Nós devemos trazer a inovação no âmbito da gestão pública não como uma mera consequência de fatores externos, mas como uma forma de trazer simplificação, segurança de informações, transparência e participação popular. Tudo isso de forma previsível e alinhada ao avanço da tecnologia da informação.
