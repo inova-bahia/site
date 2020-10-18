@@ -1,6 +1,5 @@
 import React from 'react';
 import { useStaticQuery, graphql, Link } from 'gatsby';
-import Img from 'gatsby-image';
 
 import * as S from './styled';
 
@@ -36,8 +35,8 @@ function Posts() {
   return (
     <>
       <S.Header>
-        <S.Title>Lorem Ipsum is simply text of the printing.</S.Title>
-        <S.Subtitle> We'll help you find great things to read.</S.Subtitle>
+        <S.Title>Acompanhe nossas postagens.</S.Title>
+        <S.Subtitle>Aqui você irá encontrar uma série de conteúdo.</S.Subtitle>
       </S.Header>
       <S.PostsContainer>
         {data.allMarkdownRemark.edges.map(({ node: post }) => (
