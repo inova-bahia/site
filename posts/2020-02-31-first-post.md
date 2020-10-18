@@ -15,7 +15,7 @@ Apesar das questões relativas à inovação tecnológica se tornarem cada vez m
 
 
 
-## Tudo isso traz uma pergunta, porque inovar? 
+## Tudo isso nos traz uma pergunta, o porque inovar? 
 
 A inovação é de suma importância, porque ela é tem a capacidade de expandir a produtividade e trazer uma maior competividade de todos os setores da sociedade. Por exemplo, na administração pública, podemos trazer uma melhora significativa nos indicativos de educação, empregabilidade, segurança, saúde e etc. quando bem em seus respectivos setores. 
 
