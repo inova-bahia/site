@@ -1,6 +1,6 @@
 ---
 date: 2020-01-31T05:54:23.000Z
-title: Waiting to die
+title: Teste
 description: So say goodbye to love and hold your head up high
 author: Guilherme Henrry
 image: /assets/img/desert.jpg
