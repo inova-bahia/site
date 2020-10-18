@@ -58,6 +58,10 @@ export const NavigationLink = styled(Link)`
   font-size: 1.125rem;
   font-weight: 600;
 
+  &:hover {
+    color: var(--gray-3);
+  }
+
   &.active {
     color: var(--red);
     font-weight: 700;

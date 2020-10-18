@@ -2,7 +2,7 @@ backend:
   name: github
   repo: inova-bahia/site
   branch: master
-  site_domain: https://inova-bahia.netlify.app
+  site_domain: inovaba.org
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'

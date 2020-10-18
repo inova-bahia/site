@@ -9,6 +9,7 @@ export default createGlobalStyle`
     --muted: #CED4D8;
     --black: #111111;
     --blue: #004477;
+    --blue-dark: #002244;
     --red: #DD2222;
   }
 

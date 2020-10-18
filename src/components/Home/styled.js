@@ -76,7 +76,13 @@ export const IntroButton = styled.button`
   font-size: 1.25rem;
   border: none;
   color: var(--white);
-  background: var(--blue);
+  background-color: var(--blue);
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: var(--blue-dark);
+    outline: none;
+  }
 `;
 
 export const Differences = styled.section`
@@ -116,6 +122,6 @@ export const DifferencesTitle = styled.h1`
 `;
 
 export const DifferencesText = styled.p`
-  color: var(--gray-2);
+  color: var(--gray-3);
   line-height: 1.5;
 `;

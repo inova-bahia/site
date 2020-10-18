@@ -16,9 +16,9 @@ export const Container = styled.div`
   padding: 80px 0px;
   display: flex;
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     flex-direction: column;
-    padding: 48px 0px;
+    padding: 24px 0px;
   }
 `;
 
@@ -37,10 +37,8 @@ export const Content = styled.section`
     margin-bottom: 1.125rem;
   }
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 850px) {
     max-width: 100%;
-    order: 2;
-    margin-top: 32px;
   }
 `;
 
@@ -48,31 +46,17 @@ export const Collaborators = styled.section`
   align-self: flex-start;
   margin-left: 104px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(120px, auto));
   gap: 32px;
   padding: 0 24px;
+  width: 100%;
 
-  @media screen and (max-width: 970px) {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  @media screen and (max-width: 800px) {
-    max-width: 100%;
-    margin-left: 0;
-    gap: 0;
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
+  @media screen and (max-width: 1100px) {
+    margin-left: 0px;
   }
 `;
 
-export const Collaborator = styled.div`
-  @media screen and (max-width: 800px) {
-    flex: 1 0 200px;
-  }
-`;
+export const Collaborator = styled.div``;
 
 export const CollaboratorImage = styled.img`
   border-radius: 10px;
@@ -88,16 +72,10 @@ export const CollaboratorName = styled.h2`
   @media screen and (max-width: 970px) {
     font-size: 1.125rem;
   }
-  @media screen and (max-width: 800px) {
-    padding-right: 24px;
-  }
 `;
 
 export const CollaboratorRole = styled.p`
   color: var(--gray-3);
   font-size: 0.875rem;
   text-align: center;
-  @media screen and (max-width: 800px) {
-    padding-right: 24px;
-  }
 `;
