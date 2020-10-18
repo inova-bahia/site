@@ -3,8 +3,9 @@ date: 2020-10-18T05:09:41.000Z
 title: Nova Postagem
 description: Qualquer Coisa
 author: Gabriel Silas
-image: assets/img/banner.jpg
+image: /assets/img/banner.jpg
 ---
+
 # Titulo Principal
 
 Nunca é demais lembrar o peso e o significado da inovação na história da humanidade, é a partir dela que se cria a possibilidade de enxergar novos horizontes e novas soluções para os problemas sociais. Na política não deve ser diferente, mas para isso, precisamos promover a renovação e a inovação como ferramentas de emancipação popular.
