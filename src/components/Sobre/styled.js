@@ -46,7 +46,7 @@ export const Collaborators = styled.section`
   align-self: flex-start;
   margin-left: 104px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(160px, auto));
   gap: 32px;
   padding: 0 24px;
   width: 100%;
@@ -56,12 +56,14 @@ export const Collaborators = styled.section`
   }
 `;
 
-export const Collaborator = styled.div``;
-
-export const CollaboratorImage = styled.img`
-  border-radius: 10px;
-  margin-bottom: 16px;
+export const Collaborator = styled.div`
+  .gatsby-image-wrapper {
+    border-radius: 10px;
+    margin-bottom: 16px;
+  }
 `;
+
+export const CollaboratorImage = styled.img``;
 
 export const CollaboratorName = styled.h2`
   font-size: 1.25rem;

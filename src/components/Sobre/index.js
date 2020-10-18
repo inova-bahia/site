@@ -1,16 +1,74 @@
 import React from 'react';
+import Img from 'gatsby-image';
+import { graphql, useStaticQuery } from 'gatsby';
 
 import * as S from './styled';
 
-import NatanaDuarteImg from '../../images/NatanaDuarte.jpg';
-import LiuSouzaImg from '../../images/LiuSouza.jpg';
-import GabrielSilasImg from '../../images/GabrielSilas.jpg';
-import DiegoAragaoImg from '../../images/DiegoAragao.jpg';
-import BrendoVarjaoImg from '../../images/BrendoVarjao.jpg';
-import TércioSallesImg from '../../images/TercioSalles.jpg';
-import VictorCalazansImg from '../../images/VictorCalazans.jpg';
-
 function Sobre() {
+  const {
+    GabrielSilasImg,
+    LiuSouzaImg,
+    natanaDuarteImg,
+    DiegoAragaoImg,
+    BrendoVarjaoImg,
+    TercioSallesImg,
+    VictorCalazansImg,
+  } = useStaticQuery(
+    graphql`
+      query {
+        GabrielSilasImg: file(relativePath: { eq: "GabrielSilas.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        LiuSouzaImg: file(relativePath: { eq: "LiuSouza.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        natanaDuarteImg: file(relativePath: { eq: "NatanaDuarte.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        DiegoAragaoImg: file(relativePath: { eq: "DiegoAragao.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        BrendoVarjaoImg: file(relativePath: { eq: "BrendoVarjao.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        TercioSallesImg: file(relativePath: { eq: "TercioSalles.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        VictorCalazansImg: file(relativePath: { eq: "VictorCalazans.jpg" }) {
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    `
+  );
+
   return (
     <S.Container>
       <S.Content>
@@ -47,37 +105,55 @@ function Sobre() {
 
       <S.Collaborators>
         <S.Collaborator>
-          <S.CollaboratorImage src={NatanaDuarteImg} alt="Natana Duarte" />
-          <S.CollaboratorName>Natana Duarte</S.CollaboratorName>
-          <S.CollaboratorRole>Assuntos Jurídicos</S.CollaboratorRole>
-        </S.Collaborator>
-        <S.Collaborator>
-          <S.CollaboratorImage src={LiuSouzaImg} alt="Liu Souza" />
-          <S.CollaboratorName>Liu Souza</S.CollaboratorName>
-          <S.CollaboratorRole>Vice Presidente</S.CollaboratorRole>
-        </S.Collaborator>
-        <S.Collaborator>
-          <S.CollaboratorImage src={GabrielSilasImg} alt="Gabriel Silas" />
+          <Img
+            fluid={GabrielSilasImg.childImageSharp.fluid}
+            alt="Gabriel Silas"
+          />
           <S.CollaboratorName>Gabriel Silas</S.CollaboratorName>
           <S.CollaboratorRole>Presidente</S.CollaboratorRole>
         </S.Collaborator>
         <S.Collaborator>
-          <S.CollaboratorImage src={DiegoAragaoImg} alt="Diego Aragão" />
+          <Img fluid={LiuSouzaImg.childImageSharp.fluid} alt="Liu Souza" />
+          <S.CollaboratorName>Liu Souza</S.CollaboratorName>
+          <S.CollaboratorRole>Vice Presidente</S.CollaboratorRole>
+        </S.Collaborator>
+        <S.Collaborator>
+          <Img
+            fluid={natanaDuarteImg.childImageSharp.fluid}
+            alt="Natana Duarte"
+          />
+          <S.CollaboratorName>Natana Duarte</S.CollaboratorName>
+          <S.CollaboratorRole>Assuntos Jurídicos</S.CollaboratorRole>
+        </S.Collaborator>
+        <S.Collaborator>
+          <Img
+            fluid={DiegoAragaoImg.childImageSharp.fluid}
+            alt="Diego Aragão"
+          />
           <S.CollaboratorName>Diego Aragão</S.CollaboratorName>
           <S.CollaboratorRole>Relações Institucionais</S.CollaboratorRole>
         </S.Collaborator>
         <S.Collaborator>
-          <S.CollaboratorImage src={BrendoVarjaoImg} alt="Brendo Varjão" />
+          <Img
+            fluid={BrendoVarjaoImg.childImageSharp.fluid}
+            alt="Brendo Varjão"
+          />
           <S.CollaboratorName>Brendo Varjão</S.CollaboratorName>
           <S.CollaboratorRole>Gestão de Pessoas</S.CollaboratorRole>
         </S.Collaborator>
         <S.Collaborator>
-          <S.CollaboratorImage src={TércioSallesImg} alt="Tércio Salles" />
+          <Img
+            fluid={TercioSallesImg.childImageSharp.fluid}
+            alt="Tércio Salles"
+          />
           <S.CollaboratorName>Tércio Salles</S.CollaboratorName>
           <S.CollaboratorRole>Comunicação e Publicidade</S.CollaboratorRole>
         </S.Collaborator>
         <S.Collaborator>
-          <S.CollaboratorImage src={VictorCalazansImg} alt="Victor Calazans" />
+          <Img
+            fluid={VictorCalazansImg.childImageSharp.fluid}
+            alt="Victor Calazans"
+          />
           <S.CollaboratorName>Victor Calazans</S.CollaboratorName>
           <S.CollaboratorRole>Adiministração Financeira</S.CollaboratorRole>
         </S.Collaborator>

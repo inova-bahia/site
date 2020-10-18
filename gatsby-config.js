@@ -18,6 +18,15 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-sitemap`,
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images`,
+      },
+    },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Movimento Inova Bahia`,
