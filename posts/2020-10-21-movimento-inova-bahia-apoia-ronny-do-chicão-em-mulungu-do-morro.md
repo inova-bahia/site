@@ -7,11 +7,10 @@ description: Lançando sua candidatura a vereador, Ronny se destaca pela forma
 author: Dias Junior
 image: /assets/img/ffd0d01b-85ec-4c72-944c-1b8552768d8c.jpg
 ---
-Com colaboração assídua em diversos setores do município de Mulungu do Morro, como
-por exemplo na saúde e no social se encoraja pelo trabalho se lança  como candidato a vereador deste município.   Acredita que como jovem  tem potencial para lutar por todas as pastas que a formam a gestão municipal. 
+Nascido em Mulungu do Morro e residente no bairro Chicão, o candidato a vereador Ronny vem mostrando a força jovem.
 
-Apoiado pela gestão atual, o candidato a vereador pelo PSB em Mulungu do Morro cresce e desenvolve suas metas abrangendo a todos no intuito de defender todas as necessidades no município RONNY DO CHICÃO  lança propostas para a educação.  E vem mais por aí fique ligado. 
+Com colaboração assídua em diversos setores do município de Mulungu do Morro, a exemplo da saúde e assistência social, Ronny se encoraja pelo trabalho e se lança como candidato a vereador deste município. Acredita, que sendo jovem tem o potencial para lutar por todas as pastas que a formam a gestão municipal.
 
-Portanto o candidato acredita que " a mudança política demanda tempo e reflexão. Portanto, para que o processo político brasileiro comece a receber oxigênio, é necessário que plantemos as sementes. E as sementes estão nos jovens. Precisamos olhar com mais atenção para o papel do jovem na sociedade."
+O candidato acredita que "a mudança política demanda tempo e reflexão. Portanto, para que o processo político brasileiro comece a receber oxigênio, é necessário que plantemos as sementes. E as sementes estão nos jovens. Precisamos olhar com mais atenção para o papel do jovem na sociedade."
 
-Por fim considera como uma luta diária e que entrou nesta  disputa para fazer da política municipal uma proposta melhor, para que todo o povo possa ser atendido e também se entusiasme a ser defensor de uma causa. Considerando que a população já se encontra defasada e sem interesse político ele traz a nova política de verdade e transparência.
+Por fim, ele afirma que entrou nesta disputa para fazer da política municipal uma proposta melhor, onde todo o povo possa ser atendido, e que também se entusiasme a ser defensores de uma causa. Considerando que a população já se encontra desacreditada e sem interesse político, ele traz uma nova política pautada na verdade e na transparência.
