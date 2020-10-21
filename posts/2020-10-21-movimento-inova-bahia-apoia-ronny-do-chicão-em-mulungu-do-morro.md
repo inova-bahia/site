@@ -1,6 +1,7 @@
 ---
-date: 2020-10-21 02:44:11
-title: Movimento Inova Bahia apoia Ronny do Chicão em Mulungu do Morro
+date: 2020-10-21T02:44:11.000Z
+title: O Movimento Inova Bahia apoia Ronny do Chicão para vereador em Mulungu do
+  Morro - BA
 description: Lançando sua candidatura a vereador, Ronny se destaca pela forma
   diferente de se fazer política.
 author: Dias Junior
