@@ -13,9 +13,7 @@ A pandemia em que vivemos hoje, ocasionada pelo Corona Vírus (COVID-19), nos mo
 
 Apesar das questões relativas à inovação tecnológica se tornarem cada vez mais frequentes no mercado e com uma intensidade muito alta, quando se trata administração pública, essa inovação chega sempre de forma tímida e não tão eficiente. 
 
-
-
-## Tudo isso nos traz uma pergunta, o porque inovar? 
+## Tudo isso nos traz uma pergunta, o porque inovar?
 
 A inovação é de suma importância, porque ela é tem a capacidade de expandir a produtividade e trazer uma maior competividade de todos os setores da sociedade. Por exemplo, na administração pública, podemos trazer uma melhora significativa nos indicativos de educação, empregabilidade, segurança, saúde e etc. quando bem em seus respectivos setores. 
 
