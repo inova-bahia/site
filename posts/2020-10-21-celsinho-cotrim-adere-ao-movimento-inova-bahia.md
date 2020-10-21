@@ -2,7 +2,7 @@
 date: 2020-10-21T12:02:37.000Z
 title: Celsinho Cotrim adere ao Movimento Inova Bahia
 description: Candidato a prefeitura de Salvador, o apresentador Celsinho Cotrim
-  adere a bandeira do Movimento Inova Bahia
+  adere a bandeira do Movimento Inova Bahia.
 author: Dias Junior
 image: /assets/img/unnamed.jpg
 ---
