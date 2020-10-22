@@ -15,7 +15,7 @@ function BlogPost({ data }) {
       <SEO
         title={post.frontmatter.title}
         description={post.excerpt}
-        image={post.frontmatter.image}
+        image={post.frontmatter.image.publicURL}
       />
       <S.PostBanner fluid={post.frontmatter.image.childImageSharp.fluid} />
       <S.Container>
@@ -46,6 +46,7 @@ export const query = graphql`
         description
         author
         image {
+          publicURL
           childImageSharp {
             fluid(maxWidth: 1280, quality: 60) {
               ...GatsbyImageSharpFluid
