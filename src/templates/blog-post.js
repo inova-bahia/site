@@ -17,7 +17,10 @@ function BlogPost({ data }) {
         description={post.excerpt}
         image={post.frontmatter.image.publicURL}
       />
-      <S.PostBanner fluid={post.frontmatter.image.childImageSharp.fluid} />
+      <S.PostBanner
+        fluid={post.frontmatter.image.childImageSharp.fluid}
+        alt={post.frontmatter.title}
+      />
       <S.Container>
         <S.PostHeader>
           <S.PostDate>

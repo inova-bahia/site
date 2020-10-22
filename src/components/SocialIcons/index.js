@@ -15,7 +15,7 @@ function SocialIcons() {
           title="Facebook"
           rel="noopener norefer"
         >
-          <Facebook />
+          <Facebook aria-label="Icone do Facebook" />
         </S.Link>
       </S.Item>
 
@@ -26,7 +26,7 @@ function SocialIcons() {
           title="Youtube"
           rel="noopener norefer"
         >
-          <Youtube />
+          <Youtube aria-label="Icone do Youtube" />
         </S.Link>
       </S.Item>
 
@@ -37,7 +37,7 @@ function SocialIcons() {
           title="Instagram"
           rel="noopener norefer"
         >
-          <InstagramAlt />
+          <InstagramAlt aria-label="Icone do Instagram" />
         </S.Link>
       </S.Item>
     </S.List>

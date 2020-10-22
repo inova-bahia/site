@@ -34,7 +34,7 @@ function Home() {
       <S.Differences>
         <S.DifferencesContainer>
           <S.DifferencesItem>
-            <S.DifferencesImage src={robotImg} alt="robot" />
+            <S.DifferencesImage src={robotImg} alt="Desenho de um robô" />
             <S.DifferencesTitle>Tecnologia</S.DifferencesTitle>
             <S.DifferencesText>
               Nós acreditamos que a única maneira de aproximar a política da
@@ -45,7 +45,7 @@ function Home() {
           </S.DifferencesItem>
 
           <S.DifferencesItem>
-            <S.DifferencesImage src={lightImg} alt="robot" />
+            <S.DifferencesImage src={lightImg} alt="desenho de uma lampada" />
             <S.DifferencesTitle>Inovação</S.DifferencesTitle>
             <S.DifferencesText>
               Deve ser o motor que conduz o desenvolvimento e o bem estar
@@ -55,7 +55,10 @@ function Home() {
           </S.DifferencesItem>
 
           <S.DifferencesItem>
-            <S.DifferencesImage src={plantImg} alt="robot" />
+            <S.DifferencesImage
+              src={plantImg}
+              alt="desenho de uma planta pequena com duas folhas"
+            />
             <S.DifferencesTitle>Sustentabilidade</S.DifferencesTitle>
             <S.DifferencesText>
               A única forma de promover um futuro saudável, tendo em vista que

@@ -18,7 +18,10 @@ function Header() {
 
       <S.HeaderContainer>
         <Link to="/">
-          <S.Logo src={logoImg} />
+          <S.Logo
+            src={logoImg}
+            alt="Desenho da bandeira do Bahia com a sigla MIB ao lado"
+          />
         </Link>
 
         <S.Navigation>

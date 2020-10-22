@@ -46,6 +46,7 @@ function Posts() {
                 {/* <S.PostImage src={post.frontmatter.image} /> */}
                 <S.PostImage
                   fluid={post.frontmatter.image.childImageSharp.fluid}
+                  alt={post.frontmatter.title}
                 />
               </S.ImageWrapper>
             </Link>
