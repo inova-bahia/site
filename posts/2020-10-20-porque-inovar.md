@@ -1,6 +1,6 @@
 ---
 date: 2020-10-18T05:35:23.000Z
-title: Porque Inovar?
+title: Por que Inovar?
 description: A importância da inovação na administração pública.
 author: Gabriel Silas
 image: /assets/img/lightbulb.jpg
