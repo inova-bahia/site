@@ -1,6 +1,6 @@
 ---
 date: 2020-10-23T01:17:07.000Z
-title: Candidato do MIB incomoda a velha política em Souto Soares - BA
+title: Candidato Liu incomoda a velha política em Souto Soares - BA
 description: O candidato, conhecido como Liu, trazendo propostas como redução de
   salario e criação de novos concursos, está gerando desconforto em uma parcela
   dos adversários pleiteantes a Câmara Municipal.
