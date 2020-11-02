@@ -3,7 +3,7 @@ date: 2020-11-02T02:24:22.000Z
 title: Em busca do tempo perdido
 description: A necessidade da renovação como forma de emancipação política.
 author: João Victor Iglesias (71) 99965-0459
-image: /assets/img/the_battle_of_thermopylae-large.jpg
+image: /assets/img/the_battle_of_thermopylae-large.jpeg
 ---
 A eleição americana, extremamente polarizada e tensa, dá o tom que permeia toda a conjuntura política do mundo atual. Uma ordem antiga, corrupta, retrógrada e reacionária digladia contra os novos valores de nosso tempo: a modernidade, a juventude e a política baseada nas aspirações de uma sociedade plural. Gramsci, intelectual orgânico italiano, conceitua de forma brilhante o presente momento vivido por nós: "O velho mundo agoniza, um novo mundo tarda a nascer, e, nesse claro-escuro, irrompem os monstros”. Monstros, como Trump, Bolsonaro e tantos outros oportunistas travestidos de políticos são a "*ultima ratio*" (o ultimo recurso) do pior que há em nossa sociedade. Eles usurpam o discurso da mudança, dizem que "vão mudar tudo isso que está aí", mas são apenas mais do mesmo. São exatamente os mesmos que por tanto tempo nos penitenciaram com seus atos despóticos e corruptos, acima de tudo. 
 
