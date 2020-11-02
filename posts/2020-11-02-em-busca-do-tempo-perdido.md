@@ -1,0 +1,12 @@
+---
+date: 2020-11-02T02:24:22.000Z
+title: Em busca do tempo perdido
+description: A necessidade da renovação como forma de emancipação política.
+author: João Victor Iglesias (71) 99965-0459
+image: /assets/img/the_battle_of_thermopylae-large.jpg
+---
+A eleição americana, extremamente polarizada e tensa, dá o tom que permeia toda a conjuntura política do mundo atual. Uma ordem antiga, corrupta, retrógrada e reacionária digladia contra os novos valores de nosso tempo: a modernidade, a juventude e a política baseada nas aspirações de uma sociedade plural. Gramsci, intelectual orgânico italiano, conceitua de forma brilhante o presente momento vivido por nós: "O velho mundo agoniza, um novo mundo tarda a nascer, e, nesse claro-escuro, irrompem os monstros”. Monstros, como Trump, Bolsonaro e tantos outros oportunistas travestidos de políticos são a "*ultima ratio*" (o ultimo recurso) do pior que há em nossa sociedade. Eles usurpam o discurso da mudança, dizem que "vão mudar tudo isso que está aí", mas são apenas mais do mesmo. São exatamente os mesmos que por tanto tempo nos penitenciaram com seus atos despóticos e corruptos, acima de tudo. 
+
+As eleições de 2020 são o primeiro passo para que mudemos essa realidade, ao menos aqui no Brasil. É hora de olhar com mais carinho para aqueles candidatos que são como nós, que vêm de onde nós viemos. É hora de darmos oportunidade àqueles que outrora preterimos por acharmos que "santo de casa não faz milagre". Acreditem, santo de casa faz milagre sim! Quantas vezes, enfermos, recorremos aos cuidados ternos de nossas mães e rapidamente nos curamos graças ao seu amor? E quantas vezes, na dúvida de como proceder em uma situação delicada, não fizemos uma ligação para nosso irmão mais velho pedindo valiosos conselhos?  Está na hora de fazermos o mesmo movimento na política, precisamos dar oportunidade para aqueles que conhecemos e que sabemos que irão brigar por nossos interesses com unhas e dentes.
+
+Ainda há tempo, senhoras e senhores, para mudarmos a realidade fria e desoladora em que nos encontramos. Ainda há tempo de expulsarmos os monstros que nos cercam. Candidaturas como a de Liu, no município de Souto Soares, Ronny e Raick em Mulungu do Morro, Ikaro Carvalho em Nilo Peçanha, Brendo varjão em Curaçá, Vini Quinto em Camacã, Isabela e Walter em Iraquara, entre outros inúmeros candidatos do nosso movimento, provam que isso é possível.  Cabe a nós, eleitores, irmos EM BUSCA DO TEMPO PERDIDO.
