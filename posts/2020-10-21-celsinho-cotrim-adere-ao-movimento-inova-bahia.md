@@ -3,7 +3,7 @@ date: 2020-10-21T12:02:37.000Z
 title: Celsinho Cotrim adere ao Movimento Inova Bahia
 description: Candidato a prefeitura de Salvador, o apresentador Celsinho Cotrim
   adere a bandeira do Movimento Inova Bahia.
-author: Dias Junior
+author: Luca Froes
 image: /assets/img/unnamed.jpg
 ---
 Celsinho Cotrim, candidato à prefeitura de Salvador pelo PROS, confirmou hoje sua adesão ao Movimento Inova Bahia (MIB) após reunião realizada hoje com o líder do grupo, Gabriel Silas. A reunião contou com um extenso debate de alinhamento de propostas para Salvador e foi encerrada com um vídeo conjunto entre Gabriel e Cotrim, no qual o candidato confirma sua adesão ao MIB.
