@@ -4,7 +4,7 @@ title: O Movimento Inova Bahia apoia Ronny do Chicão para vereador em Mulungu d
   Morro - BA
 description: Lançando sua candidatura a vereador, Ronny se destaca pela forma
   diferente de se fazer política.
-author: Dias Junior
+author: Luca Froes
 image: /assets/img/ffd0d01b-85ec-4c72-944c-1b8552768d8c.jpg
 ---
 Nascido em Mulungu do Morro e residente no bairro Chicão, o candidato a vereador Ronny vem mostrando a força jovem.
