@@ -1,6 +1,6 @@
 ---
 date: 2020-11-04T12:04:01.000Z
-title: Prefeito André lidera com 68% das intenções de voto em Souto Soares
+title: Prefeito André lidera com 68% das intenções de voto em Souto Soares - BA
 description: Candidato a reeleição, o prefeito André vem liderando e crescendo
   cada vez mais no município de Souto Soares - BA.
 author: Lucca Fróes
