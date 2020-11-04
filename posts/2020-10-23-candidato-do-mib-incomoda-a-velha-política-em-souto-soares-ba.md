@@ -4,7 +4,7 @@ title: Candidato Liu incomoda a velha política em Souto Soares - BA
 description: O candidato, conhecido como Liu, trazendo propostas como redução de
   salario e criação de novos concursos, está gerando desconforto em uma parcela
   dos adversários pleiteantes a Câmara Municipal.
-author: Luca Froes
+author: Lucca Fróes
 image: /assets/img/80310aa6-fba0-41a3-a3b2-addb92c99b3b.jpg
 ---
 Com apenas 23 anos de idade, o estudante universitário Elielson, simplesmente conhecido como Liu, vem incomodando a velha política de Souto Soares, no interior baiano, com a sua candidatura a vereador, referendada pelo Movimento Inova Bahia (MIB). Pautando temas como redução de privilégios políticos e realização de concursos públicos na cidade, Liu tem atraído a atenção do povo, principalmente nas redes sociais, onde tem causado grande impacto.
