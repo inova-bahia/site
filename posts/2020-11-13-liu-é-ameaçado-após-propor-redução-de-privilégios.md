@@ -1,8 +1,8 @@
 ---
-date: 2020-11-13 01:34:01
+date: 2020-11-13T01:34:01.000Z
 title: LIU É AMEAÇADO APÓS PROPOR REDUÇÃO DE PRIVILÉGIOS
 description: "Em ligação anônima o jovem candidato de Souto Soares é ofendido e ameaçado. "
-author: Dias Junior
+author: MIB
 image: /assets/img/122590777_1499353726917724_3785883539937816831_n.jpeg
 ---
 O candidato do MIB a vereador na cidade de Souto Soares (BA), Elielson Souza da Silva, mais conhecido como Liu, recebeu ontem (12) ameaças anônimas por telefone. Após atender ligação de um número desconhecido, ouviu uma série de ofensas, seguidas de uma ordem para abandonar sua campanha política "enquanto havia tempo".
