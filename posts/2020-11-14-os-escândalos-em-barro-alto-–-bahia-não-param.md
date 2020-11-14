@@ -14,4 +14,4 @@ Como se não bastasse, apenas esse ano de 2020 em meio a pandemia do CORONAVIRUS
 
 ![](/assets/img/6142a9b9-b0c2-45f1-81f6-f7841d3c0df8.jpg)
 
-Em visita feita no endereço citado acima, não foi localizado nenhum ponto comercial da denominação “PAPELARIA CASA DO PAPEL” (nome fantasia conforme cartão CNPJ), populares daquela redondeza informa que ali naquela rua nunca sediou nenhuma empresa com esse nome. Entramos em contato com o atual prefeito, o Sr. Orlando Amorim Santos e até o fechamento dessa matéria não tivemos retorno.
+Em visita feita no endereço citado acima, não foi localizado nenhum ponto comercial da denominação “PAPELARIA CASA DO PAPEL” (nome fantasia conforme cartão CNPJ), populares daquela redondeza informa que ali naquela rua nunca sediou nenhuma empresa com esse nome.
