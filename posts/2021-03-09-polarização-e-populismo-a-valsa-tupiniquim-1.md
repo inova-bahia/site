@@ -6,7 +6,7 @@ description: Um breve discurso sobre os efeitos previsíveis da polarização na
 author: "Gabriel Silas "
 image: /assets/img/whatsapp-image-2021-03-09-at-14.54.36.jpeg
 ---
-Deve-se comemorar a absolvição do Lula, pois, isso mostra que o processo jurídico ainda é tem salvação no nosso país. Algo de extrema importância, uma vez que é a partir do processo que são dirimidos os conflitos pessoais e as injustiças sociais. O rito processual, sendo respeitado, significa, antes de mais nada, segurança jurídica na execução dos direitos e garantias de um povo. 
+Deve-se comemorar a absolvição do Lula, pois, isso mostra que o processo jurídico ainda tem salvação no nosso país. Algo de extrema importância, uma vez que é a partir do processo que são dirimidos os conflitos pessoais e as injustiças sociais. O rito processual, sendo respeitado, significa, antes de mais nada, segurança jurídica na execução dos direitos e garantias de um povo. 
 
 Entretanto, dando um salto do jurídico para o político, precisamos começar a refletir sobre os efeitos que a guinada do petista vai gerar nas eleições de 2022. Quais impactos a decisão do ministro Fachin pode provocar?
 
