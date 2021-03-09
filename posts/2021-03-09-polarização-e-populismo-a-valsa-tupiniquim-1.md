@@ -1,6 +1,6 @@
 ---
 date: 2021-03-09T02:37:02.000Z
-title: "Polarização e Populismo: A valsa Tupiniquim"
+title: "POLARIZAÇÃO E POPULISMO: A VALSA TUPINIQUIM"
 description: Um breve discurso sobre os efeitos previsíveis da polarização nas
   eleições presidenciais de 2022.
 author: "Gabriel Silas "
@@ -18,4 +18,4 @@ O terceiro efeito, independentemente de quem ganhar, vai ser a perpetuação da 
 
 Vivemos num país carente de heróis e amante da polarização e, infelizmente, nossa história deixa evidente que a construção democrática e os projetos de nação sempre valeram menos que o personalismo e populismo dos governantes, tendo como resultante disso o histórico de figuras despreparadas que insistem em planos mirabolantes para apagar os erros de cada gestão passada, mas que criam novos erros.
 
-Por fim, para se mudar a realidade essa realidade, seria necessário uma mudança no sistema político (reduzindo os tentáculos dos presidentes, remodelando o sistema federativo brasileiro ou até propondo um um semi-presidencialismo, como ocorre na França), o que é improvável de se realizar no contexto atual. Por isso, devemos ter a clareza de buscar uma solução que se enquadra no limite do que é factível em nosso tempo; sendo assim, a única forma possível de tentar reverter esse aspecto é através do voto nas figuras que menos representam esse cenário polarizado, analisando sempre o histórico de cada um e, claro, ficando atentos aos planos mirabolantes.
+Por fim, para se mudar essa realidade, seria necessário uma mudança no sistema político (reduzindo os tentáculos do poder presidencial, remodelando o sistema federativo brasileiro ou até mesmo propondo um semipresidencialismo, como ocorre em Portugal e França), o que é improvável de se realizar no contexto atual. Por isso, devemos ter a clareza de buscar uma solução que se enquadra no limite do que é factível em nosso tempo; sendo assim, a única forma possível de tentar reverter esse aspecto é através do voto nas figuras que menos representam esse cenário polarizado, analisando sempre o histórico de cada um e, claro, ficando atentos aos planos mirabolantes.
