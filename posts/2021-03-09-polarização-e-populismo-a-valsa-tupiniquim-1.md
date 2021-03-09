@@ -1,7 +1,8 @@
 ---
-date: 2021-03-09 02:37:02
+date: 2021-03-09T02:37:02.000Z
 title: "Polarização e Populismo: A valsa Tupiniquim"
-description: "Um breve discurso sobre os efeitos previsíveis da polarização de 2022 "
+description: Um breve discurso sobre os efeitos previsíveis da polarização nas
+  eleições presidenciais de 2022.
 author: "Gabriel Silas "
 image: /assets/img/whatsapp-image-2021-03-09-at-14.54.36.jpeg
 ---
